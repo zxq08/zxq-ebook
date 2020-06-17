@@ -1,5 +1,9 @@
 # vue-ebook
 
+##1.电子书资源
+##2.icon
+##3.web字体
+
 ## Project setup
 ```
 npm install
